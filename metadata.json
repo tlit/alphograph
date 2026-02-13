@@ -1,0 +1,5 @@
+{
+  "name": "Circular Degree Alphabet Visualizer",
+  "description": "A high-performance visualization tool that maps text to a 52-integer circular degree system, rendering it as a continuous wavy vector curve.",
+  "requestFramePermissions": []
+}
